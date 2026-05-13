@@ -1,0 +1,25 @@
+{
+  "name": "odin-testing-practice",
+  "version": "1.0.0",
+  "description": "Just some practice for TDD Test-Driven Development",
+  "main": "analyzeArray.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoldenGlint/odin-testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GoldenGlint/odin-testing-practice/issues"
+  },
+  "homepage": "https://github.com/GoldenGlint/odin-testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.5",
+    "jest": "^30.4.2"
+  }
+}
